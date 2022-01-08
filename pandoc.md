@@ -2,7 +2,7 @@ https://pandoc.org/try/?text=%3D%3D+More+Bubbles+%3D%3D%0A%3D%3D+Even+More+Bubbl
 
 ## More Bubbles Wrong
 
-## Even Möre_Bubble5#;, Wrong??诶!
+## Even  Möre_Bubble5#;,__Wrong??诶!
 
 see [#More Bubbles Wrong][] or [#More_Bubbles_Wrong][#More Bubbles Wrong].
 
@@ -10,7 +10,7 @@ see [#More Bubbles Wrong][] or [#More_Bubbles_Wrong][#More Bubbles Wrong].
   
 ## More Bubbles Correct
 
-## Even Möre_Bubble5#;, Correct??诶!
+## Even  Möre_Bubble5#;,__Correct??诶!
 
 see [#More Bubbles Correct][] or [#More_Bubbles_Correct][#More Bubbles Correct].
 
